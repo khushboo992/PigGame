@@ -64,6 +64,10 @@ Welcome to the **Pig Game**, a fun and interactive dice game built with **HTML, 
 
 ---
 
+## Live-Preview : https://khushboo992.github.io/PigGame/
+
+---
+
 ## 🎉 Enjoy the Game!
 
 Test your luck, have fun, and may the best player win! 🥇
