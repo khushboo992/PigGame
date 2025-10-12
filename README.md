@@ -57,10 +57,10 @@ Welcome to the **Pig Game**, a fun and interactive dice game built with **HTML, 
 ![Game Start](GameStart.png)  
 
 ### Rolling Dice
-![Rolling Dice](roll.png)  
+![Rolling Dice](Roll.png)  
 
 ### Player Wins
-![Winner Display](win.png)  
+![Winner Display](Win.png)  
 
 ---
 
