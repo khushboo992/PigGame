@@ -3,7 +3,7 @@
 
 Welcome to the **Pig Game**, a fun and interactive dice game built with **HTML, CSS, and JavaScript**! Roll the dice, hold your score, and be the first player to reach the winning score.
 
----
+
 
 ## 🕹️ Game Rules
 
@@ -13,7 +13,7 @@ Welcome to the **Pig Game**, a fun and interactive dice game built with **HTML, 
 4. A player can **“Hold”** to add their current score to their total score and end their turn.
 5. The first player to reach **100 points** (configurable in code) wins the game! 🎉
 
----
+
 
 ## 🎨 Features
 
@@ -23,7 +23,7 @@ Welcome to the **Pig Game**, a fun and interactive dice game built with **HTML, 
 * **Responsive Design**: Looks great on desktop and mobile screens.
 * **Restart Game**: Start a new game at any time with a single button click.
 
----
+
 
 ## ⚡ How to Play
 
@@ -33,7 +33,7 @@ Welcome to the **Pig Game**, a fun and interactive dice game built with **HTML, 
 4. Repeat until a player wins.
 5. Press **New Game** to restart anytime.
 
----
+
 
 ## 🛠️ Built With
 
@@ -41,7 +41,7 @@ Welcome to the **Pig Game**, a fun and interactive dice game built with **HTML, 
 * **CSS3** – For styling, animations, and glow effects.
 * **JavaScript (ES6)** – For game logic, dice roll simulation, and dynamic UI.
 
----
+
 
 ## 🌟 Highlights
 
@@ -49,7 +49,7 @@ Welcome to the **Pig Game**, a fun and interactive dice game built with **HTML, 
 * Smooth **score updates** and **active player toggling**.
 * Clean and modular **JavaScript code**.
   
----
+
 
 ## 🖼️ Screenshots
 
@@ -62,11 +62,11 @@ Welcome to the **Pig Game**, a fun and interactive dice game built with **HTML, 
 ### Player Wins
 ![Winner Display](Win.png)  
 
----
+
 
 ## Live-Preview : https://khushboo992.github.io/PigGame/
 
----
+
 
 ## 🎉 Enjoy the Game!
 
