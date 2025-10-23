@@ -57,7 +57,7 @@ btnHold.addEventListener('click', function () {
     // Update UI
     document.getElementById(`score--${activePlayer}`).textContent =
       scores[activePlayer];
-    if (scores[activePlayer] >= 5) {
+    if (scores[activePlayer] >= 100) {
       //currentPlayer wins
       document
         .querySelector(`.player--${activePlayer}`)
